@@ -1,0 +1,6 @@
+{
+  "name": "NilaSense - Monitoring Kolam Nila & PLTS",
+  "description": "Sistem monitoring real-time kondisi air budidaya ikan nila via MQTT broker.emqx.io dan pemantauan energi surya PLTS Dessmonitor dengan sistem autentikasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
